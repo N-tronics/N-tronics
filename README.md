@@ -1,5 +1,5 @@
 ```bash
-nischay@DELL_THANOS ~ $ whoami
+nischay@archnyx ~ $ whoami
 ```
 > Building systems that go from "does it work" to "would I trust this in prod" — that gap is basically my whole hobby.
 
