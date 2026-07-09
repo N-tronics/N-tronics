@@ -9,14 +9,14 @@ nischay@archnyx ~ $ whoami
 
 ### `~/about`
 
-I write C++ that I try to make boring in the best way — predictable, audited, hard to break by accident. **Bifrost**, my mTLS + TOTP auth client, is the proof: built solo, then put through a full security audit, a CMake rebuild with sanitizers and hardening flags, and a test suite checked against RFC/NIST vectors. Nobody made me do that part. I just wanted to know if the code could survive someone actually trying to break it.
+I write C++ that I try to make boring in the best way — predictable, audited, hard to break by accident. **Bifrost**, a mTLS + TOTP auth client, is the proof: built solo, then put through a full security audit, a CMake rebuild with sanitizers and hardening flags, and a test suite checked against RFC/NIST vectors. Nobody made me do that part. I just wanted to know if the code could survive someone actually trying to break it.
 
 Undergrad, open to software engineering internships broadly — with a strong pull toward security and systems roles, anything close to the metal.
 
 I've also gone down rabbit holes on TLS 1.3 internals and full-disk encryption with TPM2, mostly because importing a crypto library and trusting it blindly felt like cheating. And when I'm not doing that, I'm on Codeforces / CodeChef chasing rating points, because algorithms are just fun.
 
 ```bash
-nischay@DELL_THANOS ~ $ cat ~/.config/setup
+nischay@archnyx ~ $ cat ~/.config/setup
 editor    : neovim (NvChad)
 wm        : i3
 terminal  : terminator
