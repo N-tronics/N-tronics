@@ -1,20 +1,38 @@
-## Hey, I'm Nischay 👋
+```bash
+nischay@DELL_THANOS ~ $ whoami
+```
+> Building systems that go from "does it work" to "would I trust this in prod" — that gap is basically my whole hobby.
 
-I like taking things from "it technically works" to "I'd actually trust this in production" — that gap between a working prototype and something rigorous is basically what I spend my free time chasing.
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
 
-**Bifrost** is the clearest example: an mTLS + TOTP authentication client in C++, built solo, then pushed way past "personal project" territory — full security audit, a CMake rebuild with sanitizers and hardening flags, and a test suite validated against RFC/NIST vectors. Nobody asked me to do that. I just wanted to know if I could hold my own code to a real standard.
+---
 
-Currently an undergrad, open to software engineering internships broadly, but with a clear pull toward security and systems-level work — anything close to the metal.
+### `~/about`
 
-Outside of Bifrost, I've gone down rabbit holes on TLS 1.3 internals and full-disk encryption with TPM2, mostly because I wanted to understand the primitives instead of just importing a library and trusting it blindly. I also compete in CP on Codeforces and CodeChef — algorithms and problem-solving are just fun for me, audit or no audit.
+I write C++ that I try to make boring in the best way — predictable, audited, hard to break by accident. **Bifrost**, my mTLS + TOTP auth client, is the proof: built solo, then put through a full security audit, a CMake rebuild with sanitizers and hardening flags, and a test suite checked against RFC/NIST vectors. Nobody made me do that part. I just wanted to know if the code could survive someone actually trying to break it.
 
-### Reach me
+Undergrad, open to software engineering internships broadly — with a strong pull toward security and systems roles, anything close to the metal.
+
+I've also gone down rabbit holes on TLS 1.3 internals and full-disk encryption with TPM2, mostly because importing a crypto library and trusting it blindly felt like cheating. And when I'm not doing that, I'm on Codeforces / CodeChef chasing rating points, because algorithms are just fun.
+
+```bash
+nischay@DELL_THANOS ~ $ cat ~/.config/setup
+editor    : neovim (NvChad)
+wm        : i3
+terminal  : terminator
+shell     : bash / tmux
+distro    : arch (btw)
+```
+
+---
+
+### `~/contact`
 [LinkedIn](https://linkedin.com/in/nischay-bharadwaj-mahesh) · [Email](mailto:nischay.bharadwaj@gmail.com)
 
-### Tools I reach for
+### `~/stack`
 `C` `C++` `Python` `CMake` `Docker` `Kubernetes` `Flask` `Prometheus` `Grafana` `Git` `Bash` `Arduino` `OpenGL`
 
-### GitHub stats
+### `~/stats`
 ![](https://github-readme-stats.shion.dev/api?username=N-tronics&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=N-tronics&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=N-tronics&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
