@@ -1,13 +1,20 @@
-# 💫 About Me:
-💬 Building systems that go from "does it work" to "would I trust this in production" — that gap is what I actually care about closing.<br>💬 Bifrost is my proof of that: a personal mTLS + TOTP authenticator client in C++, pushed to professional standards on my own initiative — full security audit, CMake rebuild with sanitizers and hardening, test suite validated against RFC/NIST vectors.<br>💬 Undergrad, open to software engineering internships broadly, with a strong pull toward security and systems roles.<br>💬 Also explored TLS 1.3 internals and full-disk encryption with TPM2 — wanted to understand the primitives, not just use them.<br>💬 I also participate in CP Contests on CF & CC as I'm passionate about algorithms and problem solving
+## Hey, I'm Nischay 👋
 
+I like taking things from "it technically works" to "I'd actually trust this in production" — that gap between a working prototype and something rigorous is basically what I spend my free time chasing.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nischay-bharadwaj-mahesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nischay.bharadwaj@gmail.com) 
+**Bifrost** is the clearest example: an mTLS + TOTP authentication client in C++, built solo, then pushed way past "personal project" territory — full security audit, a CMake rebuild with sanitizers and hardening flags, and a test suite validated against RFC/NIST vectors. Nobody asked me to do that. I just wanted to know if I could hold my own code to a real standard.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=N-tronics&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=N-tronics&theme=dark&hide_border=false)<br/>
+Currently an undergrad, open to software engineering internships broadly, but with a clear pull toward security and systems-level work — anything close to the metal.
+
+Outside of Bifrost, I've gone down rabbit holes on TLS 1.3 internals and full-disk encryption with TPM2, mostly because I wanted to understand the primitives instead of just importing a library and trusting it blindly. I also compete in CP on Codeforces and CodeChef — algorithms and problem-solving are just fun for me, audit or no audit.
+
+### Reach me
+[LinkedIn](https://linkedin.com/in/nischay-bharadwaj-mahesh) · [Email](mailto:nischay.bharadwaj@gmail.com)
+
+### Tools I reach for
+`C` `C++` `Python` `CMake` `Docker` `Kubernetes` `Flask` `Prometheus` `Grafana` `Git` `Bash` `Arduino` `OpenGL`
+
+### GitHub stats
+![](https://github-readme-stats.shion.dev/api?username=N-tronics&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=N-tronics&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=N-tronics&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
